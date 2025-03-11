@@ -1,0 +1,8 @@
+{
+	"command": "node index.js",
+	"build_path": "D:\\cross-intelligence-catalyst",
+	"stack": "node18",
+	"env_variables": {},
+	"memory": 2048,
+	"scripts": {}
+}

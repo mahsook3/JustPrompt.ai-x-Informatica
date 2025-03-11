@@ -1,0 +1,9 @@
+﻿id,name,price,rating,image,category,minOrder,isNew,discount
+1,Mango Pickle,150,4.8,https://www.ticklingpalates.com/wp-content/uploads/2022/05/mango-pickle.jpg,Pickles,10,No,5%
+2,Lemon Pickle,140,4.7,https://shwetainthekitchen.com/wp-content/uploads/2019/10/IMG_6719-scaled.jpg,Pickles,10,No,5%
+3,Mixed Pickle,160,4.9,https://thestateplate.com/cdn/shop/products/20_1.jpg?v=1680932115&width=1946,Pickles,10,No,5%
+4,Schezwan Chutney,200,4.6,https://cdn.shopaccino.com/refresh/articles/schezwan-chutney-973901_l.jpg?v=426,Chutneys,15,Yes,10%
+5,Tomato Chutney,180,4.5,https://i0.wp.com/kalimirchbysmita.com/wp-content/uploads/2015/07/Tomato-Chutney04.jpg,Chutneys,15,Yes,10%
+6,Spicy Mixture,220,4.7,https://nativespecial.com/wp-content/uploads/2019/11/Chinthalavadi-Spicy-Mixture-dp.jpg,Snacks,20,No,7%
+7,Garlic Pickle,170,4.6,https://www.vegrecipesofindia.com/wp-content/uploads/2021/04/garlic-pickle-recipe-1.jpg,Pickles,10,No,5%
+8,Bakarwadi,250,4.8,https://mirchi.com/os/cdn/content/images/bakarwadi%20mahalaxmi%20sweets%20and%20namkeen_medium_0293567.webp,Snacks,30,Yes,8%

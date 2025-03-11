@@ -1,0 +1,6 @@
+{
+  "client": {
+    "source": "justprompt",
+    "plugin": "zcatalyst-cli-plugin-react"
+  }
+}

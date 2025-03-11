@@ -1,0 +1,157 @@
+[
+    {
+        "comdty_id": 29,
+        "commodity_grp_id": 9,
+        "commodity": "Carpet"
+    },
+    {
+        "comdty_id": 7,
+        "commodity_grp_id": 1,
+        "commodity": "Cashew"
+    },
+    {
+        "comdty_id": 16,
+        "commodity_grp_id": 3,
+        "commodity": "Ceramic Products And Glassware"
+    },
+    {
+        "comdty_id": 11,
+        "commodity_grp_id": 1,
+        "commodity": "Cereal Preparations And Miscellaneous Processed Item"
+    },
+    {
+        "comdty_id": 2,
+        "commodity_grp_id": 1,
+        "commodity": "Coffee"
+    },
+    {
+        "comdty_id": 25,
+        "commodity_grp_id": 9,
+        "commodity": "Cotton Yarn\/Fabs.\/Madeups, Handloom Products Etc."
+    },
+    {
+        "comdty_id": 22,
+        "commodity_grp_id": 6,
+        "commodity": "Drugs And Pharmaceuticals"
+    },
+    {
+        "comdty_id": 24,
+        "commodity_grp_id": 8,
+        "commodity": "Electronic Goods"
+    },
+    {
+        "comdty_id": 23,
+        "commodity_grp_id": 7,
+        "commodity": "Engineering Goods"
+    },
+    {
+        "comdty_id": 10,
+        "commodity_grp_id": 1,
+        "commodity": "Fruits And Vegetables"
+    },
+    {
+        "comdty_id": 21,
+        "commodity_grp_id": 5,
+        "commodity": "Gems And Jewellery"
+    },
+    {
+        "comdty_id": 30,
+        "commodity_grp_id": 9,
+        "commodity": "Handicrafts Excl. Hand Made Carpet"
+    },
+    {
+        "comdty_id": 14,
+        "commodity_grp_id": 3,
+        "commodity": "Iron Ore"
+    },
+    {
+        "comdty_id": 28,
+        "commodity_grp_id": 9,
+        "commodity": "Jute Mfg. Including Floor Covering"
+    },
+    {
+        "comdty_id": 20,
+        "commodity_grp_id": 4,
+        "commodity": "Leather And Leather Manufactures"
+    },
+    {
+        "comdty_id": 26,
+        "commodity_grp_id": 9,
+        "commodity": "Man-Made Yarn\/Fabs.\/Madeups Etc."
+    },
+    {
+        "comdty_id": 13,
+        "commodity_grp_id": 2,
+        "commodity": "Marine Products"
+    },
+    {
+        "comdty_id": 12,
+        "commodity_grp_id": 1,
+        "commodity": "Meat, Dairy And Poultry Products"
+    },
+    {
+        "comdty_id": 15,
+        "commodity_grp_id": 3,
+        "commodity": "Mica, Coal And Other Ores, Minerals Including Process"
+    },
+    {
+        "comdty_id": 8,
+        "commodity_grp_id": 1,
+        "commodity": "Oil Meals"
+    },
+    {
+        "comdty_id": 9,
+        "commodity_grp_id": 1,
+        "commodity": "Oil Seeds"
+    },
+    {
+        "comdty_id": 17,
+        "commodity_grp_id": 3,
+        "commodity": "Organic and Inorganic Chemicals"
+    },
+    {
+        "comdty_id": 4,
+        "commodity_grp_id": 1,
+        "commodity": "Other Cereals"
+    },
+    {
+        "comdty_id": 31,
+        "commodity_grp_id": 10,
+        "commodity": "Others"
+    },
+    {
+        "comdty_id": 18,
+        "commodity_grp_id": 3,
+        "commodity": "Petroleum Products"
+    },
+    {
+        "comdty_id": 19,
+        "commodity_grp_id": 3,
+        "commodity": "Plastic And Linoleum"
+    },
+    {
+        "comdty_id": 27,
+        "commodity_grp_id": 9,
+        "commodity": "Ready-made garments of all textiles"
+    },
+    {
+        "comdty_id": 3,
+        "commodity_grp_id": 1,
+        "commodity": "Rice"
+    },
+    {
+        "comdty_id": 6,
+        "commodity_grp_id": 1,
+        "commodity": "Spices"
+    },
+    {
+        "comdty_id": 1,
+        "commodity_grp_id": 1,
+        "commodity": "Tea"
+    },
+    {
+        "comdty_id": 5,
+        "commodity_grp_id": 1,
+        "commodity": "Tobacco"
+    }
+]

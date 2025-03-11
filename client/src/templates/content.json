@@ -1,0 +1,322 @@
+{
+  "theme": {
+    "dark": true,
+    "primaryColor": "#ff5722"
+  },
+  "navigation": [
+    {
+      "title": "Header",
+      "path": "/header"
+    },
+    {
+      "title": "Home",
+      "path": "/home"
+    },
+    {
+      "title": "About",
+      "path": "/about"
+    },
+    {
+      "title": "Contact",
+      "path": "/contact"
+    },
+    {
+      "title": "Footer",
+      "path": "/footer"
+    }
+  ],
+  "hero": {
+    "title": "Ignite Your Senses with SpicyIndia",
+    "subtitle": "Experience the Bold Flavors of Authentic Indian Spicy Cuisine",
+    "primarybutton": {
+      "text": "Explore Our Menu",
+      "href": "javascript:void(0)"
+    },
+    "secondarybutton": {
+      "text": "Order Now & Get 10% Off",
+      "href": "javascript:void(0)"
+    }
+  },
+  "stats": [
+    {
+      "value": "50+",
+      "label": "Varieties of Indian Spicy Dishes"
+    },
+    {
+      "value": "1000+",
+      "label": "Satisfied Customers Served"
+    },
+    {
+      "value": "5",
+      "label": "Years of Spicing Up Your Life"
+    },
+    {
+      "value": "20+",
+      "label": "Experienced Chefs Crafting the Heat"
+    }
+  ],
+  "features": {
+    "title": "Experience the Flavors of Spicy India",
+    "subtitle": "Indulge in the Richness of Indian Spicy Cuisine with Our Key Offerings",
+    "features": [
+      {
+        "icon": "restaurant_menu",
+        "title": "Authentic Indian Spice Blends",
+        "description": "Savor our carefully crafted, region-specific spice blends that elevate the essence of Indian cuisine"
+      },
+      {
+        "icon": "local_dining",
+        "title": "Live Cooking Stations",
+        "description": "Witness the art of Indian cooking at our live stations, where chefs prepare spicy delights right before your eyes"
+      },
+      {
+        "icon": "delivery_dining",
+        "title": "Spice-to-Door Delivery & Catering",
+        "description": "Enjoy the bold flavors of Spicy India in the comfort of your home or at your events with our swift delivery and catering services"
+      }
+    ]
+  },
+  "aboutUs": {
+    "image": {
+      "src": "https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+      "alt": "Savoring the Flavors of India - About SpicyIndia"
+    },
+    "title": "Igniting Taste Buds Across the Globe",
+    "subtitle": "Experience the Authentic Zest of Indian Spicy Cuisine with SpicyIndia",
+    "description": "SpicyIndia is your gateway to the rich, vibrant world of Indian spicy foods. We're passionate about crafting and sharing the boldest, most aromatic flavors of India, ensuring every bite is a culinary journey. From traditional spices to modern twists, our mission is to warm hearts and tantalize taste buds globally.",
+    "linkText": "Explore the Spice Route with Us"
+  },
+  "cta": {
+    "title": "Ignite Your Taste Buds with SpicyIndia",
+    "description": "Embark on a culinary journey through the bold flavors of India. Explore our offerings to satisfy your cravings for authentic Indian spicy cuisine.",
+    "buttons": [
+      {
+        "text": "Order Now & Feel the Heat!",
+        "href": "/order-online"
+      },
+      {
+        "text": "Explore Our Spicy Menu",
+        "href": "/menu"
+      }
+    ]
+  },
+  "testimonialsSection": {
+    "title": "Savoring the Spice: What Our Customers Say",
+    "description": "Hear from our satisfied customers about their flavorful experiences with SpicyIndia.",
+    "testimonials": [
+      {
+        "avatar": "https://api.uifaces.co/our-content/donated/xZ4wg2Xj.jpg",
+        "name": "Rahul Jain",
+        "title": "Food Blogger",
+        "quote": "SpicyIndia brings the authentic heat of India to every dish. Flavors are always on point!"
+      },
+      {
+        "avatar": "https://randomuser.me/api/portraits/women/79.jpg",
+        "name": "Nalini Singh",
+        "title": "Marketing Specialist",
+        "quote": "The variety of spicy dishes at SpicyIndia is astounding. My go-to for a spicy kick every time!"
+      },
+      {
+        "avatar": "https://randomuser.me/api/portraits/men/86.jpg",
+        "name": "Karan Suri",
+        "title": "Entrepreneur",
+        "quote": "SpicyIndia's commitment to using fresh, high-quality ingredients shines through in every spicy delight."
+      }
+    ]
+  },
+  "footer": {
+    "logo": {
+      "src": "https://res.cloudinary.com/de2b7a7kz/image/upload/v1739284724/stblfint86rdrh7htdhb.png",
+      "alt": "SpicyIndia Logo"
+    },
+    "description": "Savor the Flavor of India with SpicyIndia, your one-stop destination for the most authentic and delectable Indian Spicy foods, crafted to tantalize your taste buds.",
+    "socialLinks": [
+      {
+        "platform": "Facebook",
+        "href": "",
+        "icon": "facebook"
+      },
+      {
+        "platform": "Instagram",
+        "href": "",
+        "icon": "instagram"
+      },
+      {
+        "platform": "Twitter",
+        "href": "",
+        "icon": "twitter"
+      },
+      {
+        "platform": "LinkedIn",
+        "href": "",
+        "icon": "linkedin"
+      },
+      {
+        "platform": "YouTube",
+        "href": "",
+        "icon": "youtube"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Company",
+        "links": [
+          {
+            "text": "About Us",
+            "href": ""
+          },
+          {
+            "text": "Careers",
+            "href": ""
+          }
+        ]
+      },
+      {
+        "title": "Legal",
+        "links": [
+          {
+            "text": "Privacy Policy",
+            "href": ""
+          },
+          {
+            "text": "Terms & Conditions",
+            "href": ""
+          }
+        ]
+      }
+    ],
+    "contact": {
+      "title": "Contact Us",
+      "description": "Feel free to reach out to us via email or phone for any inquiries about our Indian Spicy foods.",
+      "email": "contact@spicyindia.com",
+      "phone": "+91 98765 43210"
+    },
+    "copyright": " 2025 SpicyIndia. All Rights Reserved."
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Mango Pickle",
+      "price": 150,
+      "rating": 4.8,
+      "image": "https://www.ticklingpalates.com/wp-content/uploads/2022/05/mango-pickle.jpg",
+      "category": "Pickles",
+      "minOrder": 10,
+      "isNew": false,
+      "discount": "5%",
+      "originalPrice": 0
+    },
+    {
+      "id": 2,
+      "name": "Lemon Pickle",
+      "price": 140,
+      "rating": 4.7,
+      "image": "https://shwetainthekitchen.com/wp-content/uploads/2019/10/IMG_6719-scaled.jpg",
+      "category": "Pickles",
+      "minOrder": 10,
+      "isNew": false,
+      "discount": "5%",
+      "originalPrice": 0
+    },
+    {
+      "id": 3,
+      "name": "Mixed Pickle",
+      "price": 160,
+      "rating": 4.9,
+      "image": "https://thestateplate.com/cdn/shop/products/20_1.jpg?v=1680932115&width=1946",
+      "category": "Pickles",
+      "minOrder": 10,
+      "isNew": false,
+      "discount": "5%",
+      "originalPrice": 0
+    },
+    {
+      "id": 4,
+      "name": "Schezwan Chutney",
+      "price": 200,
+      "rating": 4.6,
+      "image": "https://cdn.shopaccino.com/refresh/articles/schezwan-chutney-973901_l.jpg?v=426",
+      "category": "Chutneys",
+      "minOrder": 15,
+      "isNew": false,
+      "discount": "10%",
+      "originalPrice": 0
+    },
+    {
+      "id": 5,
+      "name": "Tomato Chutney",
+      "price": 180,
+      "rating": 4.5,
+      "image": "https://i0.wp.com/kalimirchbysmita.com/wp-content/uploads/2015/07/Tomato-Chutney04.jpg",
+      "category": "Chutneys",
+      "minOrder": 15,
+      "isNew": false,
+      "discount": "10%",
+      "originalPrice": 0
+    },
+    {
+      "id": 6,
+      "name": "Spicy Mixture",
+      "price": 220,
+      "rating": 4.7,
+      "image": "https://nativespecial.com/wp-content/uploads/2019/11/Chinthalavadi-Spicy-Mixture-dp.jpg",
+      "category": "Snacks",
+      "minOrder": 20,
+      "isNew": false,
+      "discount": "7%",
+      "originalPrice": 0
+    },
+    {
+      "id": 7,
+      "name": "Garlic Pickle",
+      "price": 170,
+      "rating": 4.6,
+      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/04/garlic-pickle-recipe-1.jpg",
+      "category": "Pickles",
+      "minOrder": 10,
+      "isNew": false,
+      "discount": "5%",
+      "originalPrice": 0
+    },
+    {
+      "id": 8,
+      "name": "Bakarwadi",
+      "price": 250,
+      "rating": 4.8,
+      "image": "https://mirchi.com/os/cdn/content/images/bakarwadi%20mahalaxmi%20sweets%20and%20namkeen_medium_0293567.webp",
+      "category": "Snacks",
+      "minOrder": 30,
+      "isNew": false,
+      "discount": "8%\r",
+      "originalPrice": 0
+    }
+  ],
+  "logo": {
+    "src": "https://res.cloudinary.com/de2b7a7kz/image/upload/v1739284724/stblfint86rdrh7htdhb.png",
+    "width": 100,
+    "height": 100,
+    "alt": "SpicyIndia"
+  },
+  "brands": [
+    {
+      "src": "https://placehold.co/600x400?text=Brand+1",
+      "alt": "Brand 1"
+    },
+    {
+      "src": "https://placehold.co/600x400?text=Brand+2",
+      "alt": "Brand 2"
+    },
+    {
+      "src": "https://placehold.co/600x400?text=Brand+3",
+      "alt": "Brand 3"
+    },
+    {
+      "src": "https://placehold.co/600x400?text=Brand+4",
+      "alt": "Brand 4"
+    },
+    {
+      "src": "https://placehold.co/600x400?text=Brand+5",
+      "alt": "Brand 5"
+    }
+  ]
+}

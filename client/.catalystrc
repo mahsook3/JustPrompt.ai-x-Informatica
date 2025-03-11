@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "10869000000035018",
+      "name": "justprompt",
+      "domain": {
+        "id": "50024323476",
+        "name": "justprompt-60034772544.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60034772544",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

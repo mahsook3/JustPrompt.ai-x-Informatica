@@ -1,0 +1,1685 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  version="1.1"
+  xmlnsXlink="http://www.w3.org/1999/xlink"
+  xmlns:svgjs="http://svgjs.dev/svgjs"
+  width={1440}
+  height={560}
+  preserveAspectRatio="none"
+  viewBox="0 0 1440 560"
+>
+  <g mask='url("#SvgjsMask1006")' fill="none">
+    <rect width={1440} height={560} x={0} y={0} fill="rgba(255, 255, 255, 1)" />
+    <path
+      d="M-77.76 394.29L-77.76 394.29"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M-77.76 394.29L-97.58 534.8"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M-77.76 394.29L108.77 409.27"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M-77.76 394.29L80.81 514.16"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M-77.76 394.29L-65.25 662.2"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M-77.76 394.29L202.89 391.29"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M-97.58 534.8L-97.58 534.8"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M-97.58 534.8L-65.25 662.2"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M-97.58 534.8L80.81 514.16"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M-97.58 534.8L56.91 671.17"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M-97.58 534.8L108.77 409.27"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M-97.58 534.8L208.68 546.49"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M-65.25 662.2L-65.25 662.2"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M-65.25 662.2L56.91 671.17"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M-65.25 662.2L80.81 514.16"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M108.77 409.27L108.77 409.27"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M108.77 409.27L202.89 391.29"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M108.77 409.27L80.81 514.16"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M108.77 409.27L208.68 546.49"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M108.77 409.27L56.91 671.17"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M80.81 514.16L80.81 514.16"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M80.81 514.16L208.68 546.49"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M56.91 671.17L56.91 671.17"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M56.91 671.17L80.81 514.16"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M202.89 391.29L202.89 391.29"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M202.89 391.29L208.68 546.49"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M208.68 546.49L208.68 546.49"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M208.68 546.49L255.95 668.32"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M255.95 668.32L255.95 668.32"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M255.95 668.32L394.58 666.38"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M255.95 668.32L56.91 671.17"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M255.95 668.32L400.75 516.15"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M255.95 668.32L80.81 514.16"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M255.95 668.32L517.44 705.27"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M383.58 393.05L383.58 393.05"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M383.58 393.05L400.75 516.15"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M400.75 516.15L400.75 516.15"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M400.75 516.15L514.54 489.89"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M400.75 516.15L394.58 666.38"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M400.75 516.15L530.39 402.72"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M400.75 516.15L208.68 546.49"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M394.58 666.38L394.58 666.38"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M394.58 666.38L517.44 705.27"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M530.39 402.72L530.39 402.72"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M530.39 402.72L514.54 489.89"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M530.39 402.72L640.34 342.31"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M530.39 402.72L383.58 393.05"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M530.39 402.72L684.65 546.61"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M514.54 489.89L514.54 489.89"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M517.44 705.27L517.44 705.27"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M517.44 705.27L650.81 704.6"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M517.44 705.27L514.54 489.89"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M517.44 705.27L400.75 516.15"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M517.44 705.27L684.65 546.61"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M674.97 212.97L674.97 212.97"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M674.97 212.97L640.34 342.31"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M674.97 212.97L813.26 201.33"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M674.97 212.97L530.39 402.72"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M674.97 212.97L938.36 199.26"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M674.97 212.97L514.54 489.89"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M674.97 212.97L969.5 363.05"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M640.34 342.31L640.34 342.31"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M640.34 342.31L514.54 489.89"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M640.34 342.31L684.65 546.61"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M640.34 342.31L813.26 201.33"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M684.65 546.61L684.65 546.61"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M684.65 546.61L650.81 704.6"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M684.65 546.61L860.88 554.05"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M650.81 704.6L650.81 704.6"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M650.81 704.6L839.81 655.47"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M650.81 704.6L514.54 489.89"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M650.81 704.6L860.88 554.05"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M813.26 201.33L813.26 201.33"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M813.26 201.33L938.36 199.26"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M813.26 201.33L969.5 363.05"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M860.88 554.05L860.88 554.05"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M860.88 554.05L839.81 655.47"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M860.88 554.05L1002.09 498.29"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M860.88 554.05L995.58 640.5"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M839.81 655.47L839.81 655.47"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M839.81 655.47L995.58 640.5"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M839.81 655.47L684.65 546.61"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M839.81 655.47L1002.09 498.29"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M974.52 -64.67L974.52 -64.67"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M974.52 -64.67L985.78 38.3"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M974.52 -64.67L1117.82 -82.7"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M974.52 -64.67L1134.7 41.06"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M974.52 -64.67L938.36 199.26"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M974.52 -64.67L1268.25 -54.46"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M974.52 -64.67L1104.98 215.09"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M985.78 38.3L985.78 38.3"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M985.78 38.3L1134.7 41.06"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M985.78 38.3L938.36 199.26"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M938.36 199.26L938.36 199.26"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M938.36 199.26L969.5 363.05"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M938.36 199.26L1104.98 215.09"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M938.36 199.26L1134.7 41.06"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M969.5 363.05L969.5 363.05"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M969.5 363.05L1002.09 498.29"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M969.5 363.05L1115.82 384.71"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M969.5 363.05L1104.98 215.09"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M969.5 363.05L860.88 554.05"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M969.5 363.05L1117.64 527.89"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1002.09 498.29L1002.09 498.29"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1002.09 498.29L1117.64 527.89"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1002.09 498.29L995.58 640.5"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M995.58 640.5L995.58 640.5"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M995.58 640.5L1112.8 638.73"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M995.58 640.5L1117.64 527.89"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1117.82 -82.7L1117.82 -82.7"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1117.82 -82.7L1134.7 41.06"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1117.82 -82.7L1268.25 -54.46"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1117.82 -82.7L985.78 38.3"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1117.82 -82.7L1272.75 45.38"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1134.7 41.06L1134.7 41.06"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1134.7 41.06L1272.75 45.38"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1134.7 41.06L1268.25 -54.46"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1134.7 41.06L1104.98 215.09"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1104.98 215.09L1104.98 215.09"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1104.98 215.09L1241.03 254.9"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1104.98 215.09L1115.82 384.71"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1115.82 384.71L1115.82 384.71"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1115.82 384.71L1117.64 527.89"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1115.82 384.71L1002.09 498.29"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1117.64 527.89L1117.64 527.89"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1117.64 527.89L1112.8 638.73"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1112.8 638.73L1112.8 638.73"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1268.25 -54.46L1268.25 -54.46"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1268.25 -54.46L1272.75 45.38"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1268.25 -54.46L1449.22 -97.27"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1268.25 -54.46L1437.47 92.48"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1272.75 45.38L1272.75 45.38"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1272.75 45.38L1437.47 92.48"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1241.03 254.9L1241.03 254.9"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1241.03 254.9L1399.68 245.92"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1309.21 545.75L1309.21 545.75"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1309.21 545.75L1391.06 524.34"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1309.21 545.75L1302.17 657.69"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1302.17 657.69L1302.17 657.69"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1302.17 657.69L1391.06 524.34"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1302.17 657.69L1112.8 638.73"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1302.17 657.69L1117.64 527.89"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1449.22 -97.27L1449.22 -97.27"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1449.22 -97.27L1595.06 -67.18"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1449.22 -97.27L1437.47 92.48"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1437.47 92.48L1437.47 92.48"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1437.47 92.48L1588.15 94.97"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1437.47 92.48L1399.68 245.92"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1399.68 245.92L1399.68 245.92"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1399.68 245.92L1389.29 347.14"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1389.29 347.14L1389.29 347.14"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1389.29 347.14L1241.03 254.9"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1389.29 347.14L1391.06 524.34"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1389.29 347.14L1576.04 350.51"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1389.29 347.14L1309.21 545.75"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1389.29 347.14L1601.7 228.44"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1391.06 524.34L1391.06 524.34"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1391.06 524.34L1597.72 536.01"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1391.06 524.34L1565.35 667.27"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1391.06 524.34L1576.04 350.51"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1595.06 -67.18L1595.06 -67.18"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1595.06 -67.18L1588.15 94.97"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1588.15 94.97L1588.15 94.97"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1588.15 94.97L1601.7 228.44"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1601.7 228.44L1601.7 228.44"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1601.7 228.44L1576.04 350.51"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1601.7 228.44L1399.68 245.92"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1576.04 350.51L1576.04 350.51"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1576.04 350.51L1597.72 536.01"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1597.72 536.01L1597.72 536.01"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1597.72 536.01L1565.35 667.27"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1597.72 536.01L1389.29 347.14"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1597.72 536.01L1309.21 545.75"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1565.35 667.27L1565.35 667.27"
+      stroke="rgba(74, 222, 128, 1)"
+      strokeWidth="1.5"
+    />
+    <circle r={5} cx="-77.76" cy="394.29" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="-97.58" cy="534.8" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="-65.25" cy="662.2" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="108.77" cy="409.27" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="80.81" cy="514.16" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="56.91" cy="671.17" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="202.89" cy="391.29" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="208.68" cy="546.49" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="255.95" cy="668.32" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="383.58" cy="393.05" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="400.75" cy="516.15" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="394.58" cy="666.38" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="530.39" cy="402.72" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="514.54" cy="489.89" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="517.44" cy="705.27" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="674.97" cy="212.97" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="640.34" cy="342.31" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="684.65" cy="546.61" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="650.81" cy="704.6" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="813.26" cy="201.33" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="860.88" cy="554.05" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="839.81" cy="655.47" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="974.52" cy="-64.67" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="985.78" cy="38.3" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="938.36" cy="199.26" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="969.5" cy="363.05" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="1002.09" cy="498.29" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="995.58" cy="640.5" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="1117.82" cy="-82.7" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="1134.7" cy="41.06" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="1104.98" cy="215.09" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="1115.82" cy="384.71" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="1117.64" cy="527.89" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="1112.8" cy="638.73" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="1268.25" cy="-54.46" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="1272.75" cy="45.38" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="1241.03" cy="254.9" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="1309.21" cy="545.75" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="1302.17" cy="657.69" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="1449.22" cy="-97.27" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="1437.47" cy="92.48" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="1399.68" cy="245.92" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="1389.29" cy="347.14" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="1391.06" cy="524.34" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="1595.06" cy="-67.18" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="1588.15" cy="94.97" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="1601.7" cy="228.44" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="1576.04" cy="350.51" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="1597.72" cy="536.01" fill="rgba(74, 222, 128, 1)" />
+    <circle r={5} cx="1565.35" cy="667.27" fill="rgba(74, 222, 128, 1)" />
+    <path
+      d="M811.07 537.72L811.07 537.72"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M811.07 537.72L841.95 647.57"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M811.07 537.72L815.62 400.04"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M811.07 537.72L660.92 500.16"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M811.07 537.72L1001.85 546.61"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M811.07 537.72L964.22 393.65"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M841.95 647.57L841.95 647.57"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M841.95 647.57L979.92 669.14"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M841.95 647.57L665.7 699.7"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M841.95 647.57L1001.85 546.61"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M841.95 647.57L660.92 500.16"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M841.95 647.57L815.62 400.04"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1263.44 646.96L1263.44 646.96"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1263.44 646.96L1150.58 675.97"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1263.44 646.96L1284.01 504.16"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1263.44 646.96L1428.07 642.75"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1263.44 646.96L1128.22 530.26"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1263.44 646.96L1434.46 515.74"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1609.67 704.29L1609.67 704.29"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1609.67 704.29L1576.68 561.09"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1609.67 704.29L1428.07 642.75"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1609.67 704.29L1434.46 515.74"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1609.67 704.29L1578.72 398.23"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1609.67 704.29L1449.22 394.81"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M-40.14 517.25L-40.14 517.25"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M-40.14 517.25L70.89 522.04"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M-82.32 657.25L-82.32 657.25"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M-82.32 657.25L-40.14 517.25"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M-82.32 657.25L102.39 702.29"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M70.89 522.04L70.89 522.04"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M70.89 522.04L188.63 528.99"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M102.39 702.29L102.39 702.29"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M102.39 702.29L70.89 522.04"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M188.63 528.99L188.63 528.99"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M188.63 528.99L102.39 702.29"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M188.63 528.99L405.44 499.48"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M188.63 528.99L338.69 701.53"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M188.63 528.99L-40.14 517.25"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M405.44 499.48L405.44 499.48"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M405.44 499.48L541.36 518.53"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M405.44 499.48L338.69 701.53"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M338.69 701.53L338.69 701.53"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M338.69 701.53L557.74 673.79"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M541.36 518.53L541.36 518.53"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M541.36 518.53L660.92 500.16"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M541.36 518.53L557.74 673.79"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M541.36 518.53L665.7 699.7"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M541.36 518.53L694.71 358.56"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M557.74 673.79L557.74 673.79"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M557.74 673.79L665.7 699.7"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M557.74 673.79L660.92 500.16"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M694.71 358.56L694.71 358.56"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M694.71 358.56L815.62 400.04"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M694.71 358.56L660.92 500.16"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M694.71 358.56L811.07 537.72"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M660.92 500.16L660.92 500.16"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M660.92 500.16L815.62 400.04"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M660.92 500.16L665.7 699.7"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M665.7 699.7L665.7 699.7"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M815.62 400.04L815.62 400.04"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M988.42 240.41L988.42 240.41"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M988.42 240.41L1114.01 217.23"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M988.42 240.41L964.22 393.65"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M988.42 240.41L1134.83 394.72"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M988.42 240.41L815.62 400.04"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M988.42 240.41L1287.52 262.34"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M964.22 393.65L964.22 393.65"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M964.22 393.65L815.62 400.04"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M964.22 393.65L1001.85 546.61"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M964.22 393.65L1134.83 394.72"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1001.85 546.61L1001.85 546.61"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1001.85 546.61L979.92 669.14"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1001.85 546.61L1128.22 530.26"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M979.92 669.14L979.92 669.14"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1114.01 217.23L1114.01 217.23"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1114.01 217.23L1134.83 394.72"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1114.01 217.23L1287.52 262.34"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1114.01 217.23L1253.51 42.83"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1114.01 217.23L964.22 393.65"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1114.01 217.23L1299.53 384.21"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1134.83 394.72L1134.83 394.72"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1134.83 394.72L1128.22 530.26"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1134.83 394.72L1299.53 384.21"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1128.22 530.26L1128.22 530.26"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1128.22 530.26L1150.58 675.97"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1128.22 530.26L1284.01 504.16"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1150.58 675.97L1150.58 675.97"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1150.58 675.97L979.92 669.14"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1150.58 675.97L1001.85 546.61"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1150.58 675.97L1284.01 504.16"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1150.58 675.97L1428.07 642.75"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1250.53 -76.47L1250.53 -76.47"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1250.53 -76.47L1253.51 42.83"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1250.53 -76.47L1401.91 41"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1250.53 -76.47L1451.01 -41.42"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1250.53 -76.47L1555.99 -41.45"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1250.53 -76.47L1114.01 217.23"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1253.51 42.83L1253.51 42.83"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1253.51 42.83L1401.91 41"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1287.52 262.34L1287.52 262.34"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1287.52 262.34L1299.53 384.21"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1287.52 262.34L1441.96 256.88"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1287.52 262.34L1134.83 394.72"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1299.53 384.21L1299.53 384.21"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1299.53 384.21L1284.01 504.16"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1299.53 384.21L1449.22 394.81"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1284.01 504.16L1284.01 504.16"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1284.01 504.16L1434.46 515.74"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1284.01 504.16L1134.83 394.72"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1451.01 -41.42L1451.01 -41.42"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1451.01 -41.42L1401.91 41"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1451.01 -41.42L1555.99 -41.45"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1451.01 -41.42L1607.66 72"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1401.91 41L1401.91 41"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1401.91 41L1555.99 -41.45"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1441.96 256.88L1441.96 256.88"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1441.96 256.88L1565.18 215.26"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1441.96 256.88L1449.22 394.81"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1449.22 394.81L1449.22 394.81"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1449.22 394.81L1434.46 515.74"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1449.22 394.81L1578.72 398.23"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1449.22 394.81L1284.01 504.16"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1434.46 515.74L1434.46 515.74"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1434.46 515.74L1428.07 642.75"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1434.46 515.74L1576.68 561.09"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1428.07 642.75L1428.07 642.75"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1428.07 642.75L1576.68 561.09"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1555.99 -41.45L1555.99 -41.45"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1555.99 -41.45L1607.66 72"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1555.99 -41.45L1565.18 215.26"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1607.66 72L1607.66 72"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1607.66 72L1565.18 215.26"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1565.18 215.26L1565.18 215.26"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1578.72 398.23L1578.72 398.23"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1576.68 561.09L1576.68 561.09"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M1576.68 561.09L1578.72 398.23"
+      stroke="hsl(141.89999999999998, 69.2%, 75.5%)"
+      strokeWidth="1.5"
+    />
+    <circle
+      r={25}
+      cx="811.07"
+      cy="537.72"
+      fill='url("#SvgjsRadialGradient1007")'
+    />
+    <circle
+      r={25}
+      cx="841.95"
+      cy="647.57"
+      fill='url("#SvgjsRadialGradient1007")'
+    />
+    <circle
+      r={25}
+      cx="1263.44"
+      cy="646.96"
+      fill='url("#SvgjsRadialGradient1007")'
+    />
+    <circle
+      r={25}
+      cx="1609.67"
+      cy="704.29"
+      fill='url("#SvgjsRadialGradient1007")'
+    />
+    <circle r={5} cx="-40.14" cy="517.25" fill="#a5efc0" />
+    <circle r={5} cx="-82.32" cy="657.25" fill="#a5efc0" />
+    <circle r={5} cx="70.89" cy="522.04" fill="#a5efc0" />
+    <circle r={5} cx="102.39" cy="702.29" fill="#a5efc0" />
+    <circle r={5} cx="188.63" cy="528.99" fill="#a5efc0" />
+    <circle r={5} cx="405.44" cy="499.48" fill="#a5efc0" />
+    <circle r={5} cx="338.69" cy="701.53" fill="#a5efc0" />
+    <circle r={5} cx="541.36" cy="518.53" fill="#a5efc0" />
+    <circle r={5} cx="557.74" cy="673.79" fill="#a5efc0" />
+    <circle r={5} cx="694.71" cy="358.56" fill="#a5efc0" />
+    <circle r={5} cx="660.92" cy="500.16" fill="#a5efc0" />
+    <circle r={5} cx="665.7" cy="699.7" fill="#a5efc0" />
+    <circle r={5} cx="815.62" cy="400.04" fill="#a5efc0" />
+    <circle r={5} cx="988.42" cy="240.41" fill="#a5efc0" />
+    <circle r={5} cx="964.22" cy="393.65" fill="#a5efc0" />
+    <circle r={5} cx="1001.85" cy="546.61" fill="#a5efc0" />
+    <circle r={5} cx="979.92" cy="669.14" fill="#a5efc0" />
+    <circle r={5} cx="1114.01" cy="217.23" fill="#a5efc0" />
+    <circle r={5} cx="1134.83" cy="394.72" fill="#a5efc0" />
+    <circle r={5} cx="1128.22" cy="530.26" fill="#a5efc0" />
+    <circle r={5} cx="1150.58" cy="675.97" fill="#a5efc0" />
+    <circle r={5} cx="1250.53" cy="-76.47" fill="#a5efc0" />
+    <circle r={5} cx="1253.51" cy="42.83" fill="#a5efc0" />
+    <circle r={5} cx="1287.52" cy="262.34" fill="#a5efc0" />
+    <circle r={5} cx="1299.53" cy="384.21" fill="#a5efc0" />
+    <circle r={5} cx="1284.01" cy="504.16" fill="#a5efc0" />
+    <circle r={5} cx="1451.01" cy="-41.42" fill="#a5efc0" />
+    <circle r={5} cx="1401.91" cy={41} fill="#a5efc0" />
+    <circle r={5} cx="1441.96" cy="256.88" fill="#a5efc0" />
+    <circle r={5} cx="1449.22" cy="394.81" fill="#a5efc0" />
+    <circle r={5} cx="1434.46" cy="515.74" fill="#a5efc0" />
+    <circle r={5} cx="1428.07" cy="642.75" fill="#a5efc0" />
+    <circle r={5} cx="1555.99" cy="-41.45" fill="#a5efc0" />
+    <circle r={5} cx="1607.66" cy={72} fill="#a5efc0" />
+    <circle r={5} cx="1565.18" cy="215.26" fill="#a5efc0" />
+    <circle r={5} cx="1578.72" cy="398.23" fill="#a5efc0" />
+    <circle r={5} cx="1576.68" cy="561.09" fill="#a5efc0" />
+  </g>
+  <defs>
+    <mask id="SvgjsMask1006">
+      <rect width={1440} height={560} fill="#ffffff" />
+    </mask>
+    <radialGradient id="SvgjsRadialGradient1007">
+      <stop stopColor="#ffffff" offset="0.1" />
+      <stop stopColor="rgba(74, 222, 128, 1)" offset="0.2" />
+      <stop stopColor="rgba(74, 222, 128, 0)" offset={1} />
+    </radialGradient>
+  </defs>
+</svg>
