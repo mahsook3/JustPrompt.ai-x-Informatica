@@ -1,6 +1,7 @@
 <p align="center">
-    <img src="./client/src/assets/logo.png" align="center" width="30%">
-</p>
+    <a href="https://justprompt.vercel.app/">
+        <img src="./client/src/assets/logo.png" align="center" width="30%">
+    </a></p>
 <p align="center"><h1 align="center">JUSTPROMPT.AI X INFORMATICA</h1></p>
 <p align="center">
 	<img src="https://img.shields.io/github/last-commit/mahsook3/JustPrompt.ai-x-Informatica?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
@@ -9,29 +10,22 @@
 </p>
 <br>
 
-##  Table of Contents
+## Table of Contents
 
-- [ Overview](#-overview)
-- [ Features](#-features)
-- [ Project Structure](#-project-structure)
-  - [ Project Index](#-project-index)
-- [ Getting Started](#-getting-started)
-  - [ Prerequisites](#-prerequisites)
-  - [ Installation](#-installation)
-  - [ Usage](#-usage)
-  - [ Testing](#-testing)
-- [ Project Roadmap](#-project-roadmap)
-- [ Contributing](#-contributing)
-- [ License](#-license)
-- [ Acknowledgments](#-acknowledgments)
-
+- [Overview of JustPrompt.ai](#overview-of-justpromptai)
+- [Challenges Faced by MSMEs](#challenges-faced-by-msmes)
+- [Solution Architecture](#solution-architecture)
+- [Core Values of JustPrompt](#core-values-of-justprompt)
+- [Project Structure](#project-structure)
+  - [Client](#client)
+  - [Server](#server)
+- [Getting Started](#getting-started)
+- [Project Roadmap](#project-roadmap)
 ---
 
-## JustPrompt
+## Overview of JustPrompt.ai
 
-**JustPrompt** is an AI-powered platform designed to simplify cross-border trade for SMEs (Small and Medium-sized Enterprises). It provides comprehensive compliance guidance and various features to help SMEs overcome challenges in entering global markets.
-
----
+**JustPrompt.ai** is an AI-powered platform designed to simplify cross-border trade for SMEs (Small and Medium-sized Enterprises). It provides comprehensive compliance guidance and various features to help SMEs overcome challenges in entering global markets.
 
 ## Challenges Faced by MSMEs
 
@@ -45,7 +39,12 @@ MSMEs encounter several obstacles when trying to expand globally, including:
 
 ---
 
-## Features of JustPrompt
+## Solution Architecture
+<img src="./client/src/assets/architecture.png" align="center" width="100%">
+
+---
+
+## Core Values of JustPrompt
 
 JustPrompt tackles these challenges with the following features:
 
@@ -90,7 +89,7 @@ client/
  │   ├── ...
 ```
 
-###  Server
+### Server
 
 The `server` directory contains the backend code of JustPrompt.
 
@@ -114,23 +113,14 @@ server/
 
 ## Getting Started
 
-Follow these steps to set up the project:
+Follow these steps to get started with the platform:  
+<a href="https://www.youtube.com/watch?v=hUBCP1Kzpfc" target="_blank">
+  <img src="https://img.youtube.com/vi/hUBCP1Kzpfc/0.jpg" alt="Watch the video" width="100%" height="100%" style="border: 1px solid #000;" />
+</a>
 
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/your-repo/JustPrompt.git
-   ```
-2. **Navigate to the `client` directory and install dependencies:**
-   ```sh
-   cd client && npm install
-   ```
-3. **Navigate to the `server` directory and install dependencies:**
-   ```sh
-   cd ../server && npm install
-   ```
-4. **Start the development servers:**
-   ```sh
-   npm start
-   ```
+---
+
+## Project Roadmap
+<img src="./client/src/assets/Roadmap.svg" width="100%" height="100%" style="border-radius: 10px;" />
 
 ---
